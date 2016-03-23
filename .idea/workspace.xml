@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16571b24-aabd-488b-bbf9-957528d69602" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/AngularIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Alice.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Alice.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Asok.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Asok.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Dilbert.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Dilbert.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Dogbert.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Dogbert.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Loud_Howard.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Loud_Howard.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Pointy-Haired-Boss.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Pointy-Haired-Boss.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Ratbert.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Ted.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Ted.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Wally.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/Wally.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/Dilbert-Characters/ratbert.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/about-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/about-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/about-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/angularIcon.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-0.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-0.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-1.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-1.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-2.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-2.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-3.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/carousel/carousel-3.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/Bob-Dylan.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/GeorgeHarrison.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/HeroOffice.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/JohnLennon.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/PaulMcCartney.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/RingoStarr.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/SimonBaker.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/Woman.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/mascots.xcf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-1.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-2.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-3.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-4.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-5.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-6.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-7.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-8.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/my-team/team-9.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/1.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/10.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/11.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/12.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/2.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/3.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/4.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/5.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/6.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/7.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/8.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/portfolio/9.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/manage-1.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/manage-2.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/manage-3.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/manage-4.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/team-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/team-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/team-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/team/team-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/.idea/anthonyferlazzo_rwd.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/.idea/dictionaries/aferl.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/jquery-2.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/jquery.appear.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/mail/contact_me.php" />
+    </list>
+    <ignored path="elevator.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="elevator" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="224" column="6" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/WebstormProjects/elevator/js/script.js" />
+        <option value="$USER_HOME$/WebstormProjects/elevator/mail/contact_me.php" />
+        <option value="$USER_HOME$/WebstormProjects/elevator/css/style.css" />
+        <option value="$USER_HOME$/WebstormProjects/elevator/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elevator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anthonyferlazzo_rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elevator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anthonyferlazzo_rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$USER_HOME$/WebstormProjects/elevator</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/elevator/index.html">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16571b24-aabd-488b-bbf9-957528d69602" name="Default" comment="" />
+      <created>1458597813800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1458597813800</updated>
+      <workItem from="1458597815660" duration="10393000" />
+      <workItem from="1458658867944" duration="25026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35419000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20413026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283859" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-04.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/blog-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/about-03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/about-02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/images/about-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/jqBootstrapValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/jquery.appear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/jquery-2.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/modernizr.custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="155" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1533">
+          <caret line="326" column="25" selection-start-line="326" selection-start-column="19" selection-end-line="326" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/tonyferlazzo.com/angular2-tour-of-heroes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="224" column="6" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/anthonyferlazzo_rwd/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
